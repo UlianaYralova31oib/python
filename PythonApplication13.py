@@ -12,5 +12,6 @@ for i in range(n):
             i +=1
             j -=1
             boats +=1
+            print(boats)
 
         
